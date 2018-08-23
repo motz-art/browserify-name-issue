@@ -1,0 +1,16 @@
+{
+  "name": "browserify-external-issue",
+  "version": "1.0.0",
+  "description": "Project demonstrates Browserify external name conflict issue.",
+  "main": "test.js",
+  "scripts": {
+    "test": "tap ./test.js"
+  },
+  "keywords": [],
+  "author": "Oleg Oshkodorov",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "tap": "^12.0.1"
+  }
+}
